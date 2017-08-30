@@ -7,6 +7,8 @@ package project1;
  * Description: Handles the InvalidCharacterException
  */
 class InvalidCharacterException extends Exception {
-    // Constructor
-    InvalidCharacterException() {}
+
+  // Constructor
+  InvalidCharacterException() {
+  }
 }

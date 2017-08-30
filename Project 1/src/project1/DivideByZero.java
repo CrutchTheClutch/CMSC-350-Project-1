@@ -7,9 +7,9 @@ package project1;
  * Description: Handles the DivideByZero Exception
  */
 class DivideByZero extends Exception {
-    // Constructor that accepts a message
-    DivideByZero(String message)
-    {
-        super(message);
-    }
+
+  // Constructor that accepts a message
+  DivideByZero(String message) {
+    super(message);
+  }
 }
